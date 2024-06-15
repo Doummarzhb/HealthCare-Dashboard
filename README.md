@@ -3,5 +3,9 @@ The objective of this assessment is to evaluate my capability to transform an Ad
 The primary goal is to convert the provided PSD into a responsive single-page website. This entails ensuring that the carousel seamlessly adapts to various screen sizes, and on mobile devices,
 the tabs should gracefully transition into an accordion layout for improved usability.
 
-Tools Using :
-HTML,CSS,JS,API,POSTMANE
+Tools Used :
+HTML
+CSS
+JS
+Adobe Photoshop 
+Postmane
