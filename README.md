@@ -4,8 +4,8 @@ The primary goal is to convert the provided PSD into a responsive single-page we
 the tabs should gracefully transition into an accordion layout for improved usability.
 
 Tools Used :
-HTML
-CSS
-JS
-Adobe Photoshop 
-Postmane
+HTML,
+CSS,
+JS,
+Adobe Photoshop ,
+Postmane,
